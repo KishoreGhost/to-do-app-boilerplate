@@ -38,6 +38,7 @@ img {
 }
 
 .form button {
+  cursor: pointer;
   width: 100px;
   background-color: #7055d3;
   color: white;
